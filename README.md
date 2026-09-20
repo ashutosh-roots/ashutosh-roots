@@ -49,16 +49,3 @@
 - **Certifications & Learning** — Courses, certifications, labs, and ongoing learning.
 - **Contact** — Professional contact and secure communication options.
 
----
-
-## 🚀 Run Locally
-
-```bash
-# Clone the repository
-git clone https://gitlab.com/your-username/portfolio.git
-
-# Navigate to the project directory
-cd portfolio
-
-# Open the website
-open index.html
