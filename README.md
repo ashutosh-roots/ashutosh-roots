@@ -1,33 +1,54 @@
 ![header](header.jpeg)
+
 <p align="center">
-  🔗 <b>Live Site:</b> <a href="https://ashutosh-terminal.vercel.app/" target="_blank">Portfolio Link</a>
+  🔗 <b>Live Site:</b>
+  <a href="https://ashutosh-terminal.vercel.app/" target="_blank">Portfolio</a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 **Cybersecurity Student:** Network security, vulnerability assessment, aur secure coding sikh raha hoon.
-- ⚛️ **Quantum Enthusiast:** Quantum computing basics, Qubits, aur post-quantum cryptography mein gehri ruchi hai.
-- 🎯 **Goal:** Traditional cyber systems ko future-proof aur quantum-safe banane par kaam karna.
+- 🎓 **Cybersecurity Student** — Exploring network security, vulnerability assessment, ethical hacking, and secure coding.
+- ⚛️ **Quantum Computing Enthusiast** — Interested in quantum computing, qubits, quantum algorithms, and post-quantum cryptography.
+- 🔐 **Security Mindset** — Learning how modern systems work, how they can be secured, and where vulnerabilities exist.
+- 🎯 **Goal** — Exploring the intersection of **Cybersecurity and Quantum Computing** to build secure and future-ready digital systems.
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-* **Cybersecurity Tools:** Nmap, Wireshark, Burp Suite, Linux / Kali Linux
-* **Quantum & Coding:** Python, Qiskit *(agar use karte hain)*, C/C++
-* **Web Tech (Portfolio):** HTML5, CSS3, JavaScript
-* **Core Concepts:** Network Protocols, Cryptography, Quantum Algorithms basics
+### 🔐 Cybersecurity
+- Nmap
+- Wireshark
+- Burp Suite
+- Linux / Kali Linux
+- Web Security
+- Vulnerability Assessment
+- Network Security
+- Cryptography Fundamentals
+
+### ⚛️ Quantum & Programming
+- Python
+- C / C++
+- Quantum Computing Fundamentals
+- Qubits & Quantum Algorithms
+- Post-Quantum Cryptography
+- Qiskit
+
+### 🌐 Web Technologies
+- HTML5
+- CSS3
+- JavaScript
 
 ---
 
-## 📂 Key Portfolio Sections
+## 📂 Portfolio Sections
 
-- **About Me:** Meri cybersecurity journey aur background.
-- **Projects & Labs:** TryHackMe/HackTheBox writeups + quantum simulation projects.
-- **Certifications & Learning:** Completed security courses,ongoing labs.
-- **Contact:** Secure communication channels (PGP key / Email).
+- **About Me** — My journey and interests in cybersecurity and technology.
+- **Projects & Labs** — Security labs, web security projects, TryHackMe / Hack The Box learning, and quantum computing experiments.
+- **Certifications & Learning** — Courses, certifications, labs, and ongoing learning.
+- **Contact** — Professional contact and secure communication options.
 
 ---
 
@@ -35,10 +56,10 @@
 
 ```bash
 # Clone the repository
-git clone [https://gitlab.com/your-username/portfolio.git](https://gitlab.com/your-username/portfolio.git)
+git clone https://gitlab.com/your-username/portfolio.git
 
-# Navigate into directory
+# Navigate to the project directory
 cd portfolio
 
-# Open index.html in browser
-open index.html  # ya direct index.html file par double click karein
+# Open the website
+open index.html
