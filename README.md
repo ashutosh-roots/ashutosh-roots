@@ -25,8 +25,8 @@
 ## 📂 Key Portfolio Sections
 
 - **About Me:** Meri cybersecurity journey aur background.
-- **Projects & Labs:** TryHackMe/HackTheBox writeups aur quantum simulation projects.
-- **Certifications & Learning:** Completed security courses aur ongoing labs.
+- **Projects & Labs:** TryHackMe/HackTheBox writeups + quantum simulation projects.
+- **Certifications & Learning:** Completed security courses,ongoing labs.
 - **Contact:** Secure communication channels (PGP key / Email).
 
 ---
