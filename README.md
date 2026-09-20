@@ -1,4 +1,4 @@
-![header](header.png)
+![header](header.jpeg)
 <p align="center">
   🔗 <b>Live Site:</b> <a href="https://ashutosh-terminal.vercel.app/" target="_blank">Portfolio Link</a>
 </p>
