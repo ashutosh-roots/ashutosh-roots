@@ -20,17 +20,16 @@
 
 ### 🔐 Cybersecurity
 - Nmap
-- Wireshark
-- Burp Suite
+- OSINT
 - Linux / Kali Linux
 - Web Security
 - Vulnerability Assessment
 - Network Security
-- Cryptography Fundamentals
+- CTF Player
 
 ### ⚛️ Quantum & Programming
 - Python
-- C / C++
+- C 
 - Quantum Computing Fundamentals
 - Qubits & Quantum Algorithms
 - Post-Quantum Cryptography
